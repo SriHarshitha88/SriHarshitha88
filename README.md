@@ -1,7 +1,10 @@
-![My Image](https://www.freepik.com/premium-ai-image/anime-women-character-is-coding_141470054.htm)
+![img1](https://github.com/user-attachments/assets/9a5a90b7-76dd-4495-a0cf-7067ba1facef)
 
 
-# Oi, World! I'm Aaron 👋
+
+
+
+# Oi, World! I'm Harshitha 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 
