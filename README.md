@@ -1,10 +1,7 @@
+# Oi, World! I'm Harshitha 👋
+
 ![img1](https://github.com/user-attachments/assets/9a5a90b7-76dd-4495-a0cf-7067ba1facef)
 
-
-
-
-
-# Oi, World! I'm Harshitha 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=SriHarshitha88&label=Profile%20views&color=60598F&style=flat)
 
