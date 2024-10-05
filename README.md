@@ -7,7 +7,6 @@
 
 <div class="github-introduction">
 
-summaryComputer Science Personal Statement Adviceturn0search9personal-statement-advice-computer-science
 
 I'm a pre-final year Computer Science student with a passion for web development,dedicated to bringing ideas to life in the browser.Growing up in the '90s and early 2000s, my fascination with the internet led me to design and develop fast, responsive, and accessible websites and web applications.
 
@@ -20,8 +19,6 @@ Currently, I'm expanding my expertise into DevOps to streamline development proc
 <div class="badges-intro">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 </div>
 
 ## 🌟 Featured Projects
