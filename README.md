@@ -36,16 +36,18 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=SriHarshitha88&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Harshitha's Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriHarshitha88&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&&theme=monokai&bg_color=000000&&show_icons=true&hide_border=true&count_private=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true" alt="Harshitha's Streak" height="165">
+
+
+
+
   </p>
 </div>
 
 ## 📃 I love documentation
 
 Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
-
-In addition to my love for documentation, *I'm currently working on a custom Obsidian theme* as part of my **Violet Void theme** series. This theme features rich, deep purple colors with transparency effects, providing a sleek and modern look. I'm already using it myself, and it looks dope! I plan to release this theme soon so others can enjoy it as well.
 
 Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
 
