@@ -6,7 +6,7 @@
 
 # Oi, World! I'm Harshitha 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://SriHarshitha88/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
