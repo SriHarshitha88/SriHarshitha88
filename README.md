@@ -7,10 +7,11 @@
 
 <div class="github-introduction">
 
-I'm a **Web Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
+summaryComputer Science Personal Statement Adviceturn0search9personal-statement-advice-computer-science
 
-Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
+I'm a pre-final year Computer Science student with a passion for web development,dedicated to bringing ideas to life in the browser.Growing up in the '90s and early 2000s, my fascination with the internet led me to design and develop fast, responsive, and accessible websites and web applications.
 
+Currently, I'm expanding my expertise into DevOps to streamline development processes and improve deployment efficiency. I'm also exploring Web3, focusing on Solidity, Rust, and building decentralized apps on Ethereum and Solana.
 </div>
 
 - 💼 Interested in working together? Reach out to me via <a href="mailto:harshithajampani81@gmail.com">email.</a>
@@ -43,7 +44,7 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 ## 📃 I love documentation
 
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
+Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation.
 
 Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
 
@@ -53,8 +54,6 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
 4. **When** should the reader use this documentation?
 5. **Who** is this documentation for?
 
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ### <p align="center">⚙️ My development environment </p>
 
