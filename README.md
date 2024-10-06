@@ -8,7 +8,7 @@
 <div class="github-introduction">
 
 
-I'm a pre-final year Computer Science student with a passion for web development,dedicated to bringing ideas to life in the browser.Growing up in the early 2000s, my fascination with the internet led me to design and develop fast, responsive, and accessible websites and web applications.
+I'm a pre-final year Computer Science student passionate about web development,dedicated to bringing ideas to life in the browser.Growing up in the early 2000s, my fascination with the internet led me to design and develop fast, responsive, and accessible websites and web applications.
 
 Currently, I'm expanding my expertise into DevOps to streamline development processes and improve deployment efficiency. I'm also exploring Web3, focusing on Solidity, Rust, and building decentralized apps on Ethereum and Solana.
 </div>
